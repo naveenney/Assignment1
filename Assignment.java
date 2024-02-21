@@ -48,11 +48,5 @@ public class Assignment {
 		b=temp;
 		System.out.println("after swab:"+a+" "+b);
 	}		
-	public static void main(String[] args)
-	{
-		typeCan(12.50);	
-		findWeekDay();
-		printRandomNumber();
-		swabNum(12,14);
-	}
+	
 }
