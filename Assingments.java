@@ -19,7 +19,7 @@ public class Assingments {
 	
 	public static void main(String[] args)
 	{
-		System.out.println("4 class f")
+		System.out.println("4 class files created");
 	}
 	
 }
